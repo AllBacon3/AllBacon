@@ -1,0 +1,21 @@
+//Items
+item.magic_coal.name=Magic coal
+tile.magic_coal_little.name=Magic Coal
+
+//Blocks
+tile.magic_coal_block.name=Magic Coal Block
+
+//Tabs
+itemGroup.mfm=MagicFurnaceTab
+
+//Ores
+tile.magic_coal_ore.name=Magic Coal Ore
+tile.magic_coal_little_ore.name=Magic Coal Ore
+
+//Custom Blocks
+tile.campfire_block.name=Campfire
+
+//Furnace
+tile.magic_furnace_off.name=Magic Furnace
+tile.magic_furnace_on.name=Lit Magic Furnace
+container.magic_furnace=Magic Furnace

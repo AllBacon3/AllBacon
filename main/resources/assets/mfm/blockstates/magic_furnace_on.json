@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mfm:magic_furnace_on" },
+        "facing=south": { "model": "mfm:magic_furnace_on", "y": 180 },
+        "facing=west":  { "model": "mfm:magic_furnace_on", "y": 270 },
+        "facing=east":  { "model": "mfm:magic_furnace_on", "y": 90 }
+    }
+}

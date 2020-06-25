@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mfm",
+  "name": "Magic Furnace",
+  "description": "Het gaat over een magice furnace.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AllBacon"],
+  "credits": "Dank naar alle tutorials en mensen die me hebben geholpen.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
